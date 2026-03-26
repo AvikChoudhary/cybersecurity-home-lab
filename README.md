@@ -24,8 +24,17 @@ Nessus, Payload testing and many other tools
 - Used msfconsole to exploit known vulnerabilities (e.g., EternalBlue on Windows 7)
 - Generated payloads with msfvenom and demonstrated Meterpreter session
 
-
 ## What I Learned
 Safe lab creation, reconnaissance phase, scanning, exploitation, post-exploitation, and reporting, legal & ethical boundaries.
+
+![VMs created](vms-made.png)
+
+![Kali Linux Nmap Scan on Metasploitable](nmap-scan-metasploitable.png)
+
+![Kali Linux Nmap Scan on Windows 7](nmap-scan-windows-7.png)
+
+![Metasploit msfconsole on Windows 7](eternalblue-windows-7.png)
+
+![Kali Linux Nmap Scan on Windows 10](nmap-scan-windows-10.png)
 
 Built by Avik Choudhary
